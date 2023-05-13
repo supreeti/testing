@@ -1,0 +1,25 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "AAA pattern unit tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supreeti/testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supreeti/testing/issues"
+  },
+  "homepage": "https://github.com/supreeti/testing#readme",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "webpack": "^5.82.1",
+    "webpack-cli": "^5.1.1"
+  }
+}
